@@ -55,12 +55,12 @@ O script de validação de CPF adiciona um escutador de evento ao formulário de
 <img src="img/cpf.png" width=400px>
 
 # TECNOLÓGIAS 
-* HTML 
-* CSS
-* JAVASCRIPT
-* GO LIVE 
-* GITHAB 
+* `HTML`
+* `CSS`
+* `JAVASCRIPT`
+* `GO LIVE`
+* `GITHAB`
 
 # AUTOR
-* GEOVANA APARECIDA DE LIMA
-* LEONARDO ROCHA 
+* `GEOVANA APARECIDA DE LIMA`
+* `LEONARDO ROCHA` 
